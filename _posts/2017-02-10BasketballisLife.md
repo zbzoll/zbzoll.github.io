@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basketball is Life: In and Out of the Web
-image: /img/Basketball.jpeg
+image: /img/Basketball.img
 tags: [random, exciting-stuff]
 ---
 
