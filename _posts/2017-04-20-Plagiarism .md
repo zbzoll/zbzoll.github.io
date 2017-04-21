@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Plagiarism
-bigimg: img/test.jpg
-image: img/copy.jpg
+bigimg: /img/test.jpg
+image: /img/copy.jpg
 tags: [random, exciting-stuff]
 ---
 
-
+### TL;DR ...
 
 
 
