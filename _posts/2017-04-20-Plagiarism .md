@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Plagiarism
+title: Why you Cannot get into Harvard?
 bigimg: /img/test.jpg
 image: /img/copy.jpg
 tags: [random, exciting-stuff]
 ---
 
-### TL;DR ...
+### TL;DR Why high school students use plagiarism so they get accepted into college. 
 
+In today's society, getting excepted to either a college or a university is the goal for most high school students. To get into these schools you need to have a good GPA, do well on your standardized test, which include the ACT, and the SAT test, and writing your intro essays to get into school. Being a freshman in college i have felt the same pressures that the high school seniors are facing and went through it too.       
 
 
 
