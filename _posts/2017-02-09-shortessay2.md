@@ -5,7 +5,6 @@ bigimg: /img/Basketball.jpg
 image: /img/Basketball.jpg
 tags: [random, exciting-stuff]
 ---
-### Tl;DR How basketball is connected throughout the Internet around the world.  
 
 Basketball was invented in Springfield, Massachusetts by the Great James Naismith as a less injury-prone sport than football. The first ever basketball game was played on December 21, 1891 which was game that was played 9 versus 9 game played with two peach baskets and a soccer ball. The final score of that game was 1-0. From that point on, the game of basketball has spread to become one of the powerhouse national and international sport of the world.
 
