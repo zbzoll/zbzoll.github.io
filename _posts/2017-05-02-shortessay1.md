@@ -7,7 +7,7 @@ tags: [random, exciting-stuff]
 ---
 
 
-### TL;DR Evaluating the use of Github and Markdown to bublish articles
+### TL;DR Evaluating the use of Github and Markdown to publish articles
 
 During this year Fs 102 course I learned a new way to write your  papers and this way was posting them online. We posted them online by using Github and Markdown which at first was very difficult but as the year went along it became easier to use. Some of the positive of using Github is how easy it is to see your work and others to view your work. It also allows the editing process between articles very easy between students. Once you understand the process of uploading the files online to your website, which took me a month to understand, made the use of Github very easy to use.
 
